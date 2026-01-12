@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: toddcolsen/toddcolsen.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Todd Olsen
-title: Senior Data Scientist & Engineer
+title: Data Scientist & Engineer
 email: olsentoddc@gmail.com
 website: toddcolsen.github.io
 
@@ -48,7 +48,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Todd and I'm a Data Scientist.  
+  Hi, my name's Todd Olsen and I'm a Data Scientist.  
 
 content:
   - title: Projects # Title for the section
