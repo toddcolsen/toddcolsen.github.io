@@ -100,7 +100,8 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
+remote_theme: pages-themes/hacker@v0.2.0
 
 sass:
   sass_dir: _sass
