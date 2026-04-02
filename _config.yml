@@ -144,8 +144,8 @@ content:
     content:         
       - layout: left
         title: PokerBuddy
-        link: 
-        # link_text: Project Website
+        link: https://userpages.cs.umbc.edu/tolsen1/pokerbuddy.html
+        link_text: Project Website
         additional_links:
           - title:  About Page
             icon: fab fa-java
