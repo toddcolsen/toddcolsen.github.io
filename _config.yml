@@ -68,7 +68,7 @@ content:
         caption: University of Maryland Baltimore County (UMBC)
         sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by [Dr. Hillol Kargupta](https://userpages.cs.umbc.edu/hillol/).  My thesis was titled "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
+           I got my Masters degree in Computer Science from UMBC.  My focus was on Machine Learning and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by [Dr. Hillol Kargupta](https://userpages.cs.umbc.edu/hillol/).  My thesis was titled "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
            
       - layout: left
         title: BS Physics
@@ -177,6 +177,12 @@ content:
     layout: text # Type of content section (list/text)
     content:    | #
         *Communication Efficient Construction of Decision Trees Over Heterogeneously Distributed Data.* Kun Liu, Chris Giannella, Todd Olsen. **ICDM 2004: 67-74**
+
+  - title: Other # Title for the section
+    layout: text # Type of content section (list/text)
+    content:    | #
+        
+
 
 # Footer
 footer_show_references: true
