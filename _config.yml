@@ -70,7 +70,7 @@ content:
         caption: University of Maryland Baltimore County (UMBC)
         sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis was titled "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
+           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
            
       - layout: left
         title: BS Physics
@@ -86,15 +86,27 @@ content:
       - layout: left
         title: Professional Data Engineer
         link: 
-        # link_text: volvogroup.com
-        sub_title: [Volvo Group](volvogroup.com)
-        caption: Hagerstown, MD
+        # link_text: boringcompany.com
+        sub_title: Volvo Group
+        caption: Hagerstown MD
+        quote: > 
+            ![Volvo](https://www.volvotrucks.us/news-and-stories/press-releases/2016/march/volvo-trucks-unveils-new-logo/media_10d03fe166503dc1386a76e002ab651e5ef6553fc.jpg)
+        description: | # this will include new lines to allow paragraphs
+            I performed both data science and data engineering roles in support of engine testing.  
+            
+      - layout: left
+        title: Data Scientist
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Komatsu Mining
+        caption: Warrendale PA
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            I performed both data science and data engineering roles in support of engine testing.  
-
+            Data Scientist in support of predictive analytics.  
             
+  
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
