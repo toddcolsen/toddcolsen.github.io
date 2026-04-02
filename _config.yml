@@ -94,43 +94,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             I performed both data science and data engineering roles in support of engine testing.  
             
-            
-      - layout: left
-        title: Data Scientist
-        link: https://www.komatsu.com/en-za/industries/underground-soft-rock-mining
-        # link_text: boringcompany.com
-        sub_title: Komatsu Mining
-        caption: Warrendale, PA
-        quote: > 
-            
-        description: | # this will include new lines to allow paragraphs
-            Data Scientist in support of predictive analytics for mining machinery.  
-            
-            
-        - layout: left
-        title: Research Statistician
-        link: vistaprint.com
-        # link_text: boringcompany.com
-        sub_title: Webs.com
-        caption: Silver Spring, MD
-        quote: > 
-            
-        description: | # this will include new lines to allow paragraphs
-            A data science role for a small web company in Silver Spring.  Webs was acquired and absored by VistaPrint.
-            
-            
-        - layout: left
-        title: Statistician
-        link: claritas.com
-        # link_text: boringcompany.com
-        sub_title: Claritas
-        caption: Arlington, VA
-        quote: > 
-            
-        description: | # this will include new lines to allow paragraphs
-            I built models of consumer purchasing behavior by demographic group.
-
-
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
