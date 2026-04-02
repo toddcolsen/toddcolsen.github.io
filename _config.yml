@@ -145,7 +145,7 @@ content:
            *This project contains code and data for my analysis of the Indus Script (aka. the Harrapan Script).*
           
           
-      - layout: top-middle
+      - layout: left
         title: PokerBuddy
         link: 
         # link_text: Project Website
@@ -156,7 +156,8 @@ content:
         quote: >
           X
         description: | # this will include new lines to allow paragraphs
-          This is something I made 20+ years ago.  It's is a Java program that was designed to be run while you were playing Party Poker.  
+          This is a blast from the past.  I recently rediscovered something I made 20+ years ago and thought was lost.  It's is a Java program that was designed to be run while you were playing Party Poker (This is 20 years old and won't work today).
+          
           It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
           realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  It can be run as-is.
       
