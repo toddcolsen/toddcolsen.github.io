@@ -70,14 +70,14 @@ content:
         caption: University of Maryland Baltimore County (UMBC)
         sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-           I got my Masters degree in Computer Science from UMBC.  My focus was on Data Mining and Machine Learning and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  I co-authored [this paper](https://www.computer.org/csdl/proceedings-article/icdm/2004/21420067/12OmNwIHopZ)
+           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
            
       - layout: left
         title: BS Physics
         caption: Case Western Reserve University (CWRU)
         sub_title: #BS Physics
         description: | # this will include new lines to allow paragraphs
-           Masters Degree in Computer Science from UMBC.  My focus was on Data Mining and Machine Learning and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.
+          I got my Bachelors degree in Physics from CWRU.  I worked in the lab of [Prof. Rolfe G. Petschek](https://physics.case.edu/emeriti/rolfe-g-petschek/), where I worked on the spontaneous alignment of farroelectric liquid crystal inside containers.
           
 
   - title: Experience # Title for the section
@@ -88,12 +88,23 @@ content:
         link: 
         # link_text: boringcompany.com
         sub_title: Volvo Group
-        caption: 
+        caption: Hagerstown MD
         quote: > 
-          
+            ![Volvo](https://www.volvotrucks.us/news-and-stories/press-releases/2016/march/volvo-trucks-unveils-new-logo/media_10d03fe166503dc1386a76e002ab651e5ef6553fc.jpg(
         description: | # this will include new lines to allow paragraphs
-            I supported engine testing.
-
+            I performed both data science and data engineering roles in support of engine testing.  
+            
+      - layout: left
+        title: Data Scientist
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Komatsu Mining
+        caption: Hagerstown MD
+        quote: > 
+            
+        description: | # this will include new lines to allow paragraphs
+            I performed both data science and data engineering roles in support of engine testing.  
+            
   
 
 
