@@ -132,20 +132,6 @@ content:
     layout: list # Type of content section (list/text)
     content:         
       - layout: left
-        title: Indus Script
-        link: 
-        link_text: 
-        additional_links:
-          - title:  Github page
-            icon: fab fa-github
-            url: https://github.com/toddcolsen/indus_script
-        quote:  >
-        
-        description: | # this will include new lines to allow paragraphs           
-           *This project contains code and data for my analysis of the Indus Script (aka. the Harrapan Script).*
-          
-          
-      - layout: left
         title: PokerBuddy
         link: 
         # link_text: Project Website
@@ -160,10 +146,25 @@ content:
           
           It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
           realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  It can be run as-is.
+          
+          
+      - layout: left
+        title: Indus Script
+        link: 
+        link_text: 
+        additional_links:
+          - title:  Github page
+            icon: fab fa-github
+            url: https://github.com/toddcolsen/indus_script
+        quote:  >
+        
+        description: | # this will include new lines to allow paragraphs           
+           *This project contains code and data for my analysis of the Indus Script (aka. the Harrapan Script).*
       
   - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:   
+    layout: text # Type of content section (list/text)
+    content:    | #
+        *Communication Efficient Construction of Decision Trees Over Heterogeneously Distributed Data.* Kun Liu, Chris Giannella, Todd Olsen. **ICDM 2004: 67-74**
 
 # Footer
 footer_show_references: true
