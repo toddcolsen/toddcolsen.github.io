@@ -72,14 +72,14 @@ content:
         caption: University of Maryland Baltimore County (UMBC)
         sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
+           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by [Dr. Hillol Kargupta](https://userpages.cs.umbc.edu/hillol/).  My thesis was titled "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
            
       - layout: left
         title: BS Physics
         caption: Case Western Reserve University (CWRU)
         sub_title: #BS Physics
         description: | # this will include new lines to allow paragraphs
-          I got my Bachelors degree in Physics from CWRU.  I worked in the lab of [Prof. Rolfe G. Petschek](https://physics.case.edu/emeriti/rolfe-g-petschek/), where I worked on the spontaneous alignment of farroelectric liquid crystal inside containers.
+          I got my Bachelors degree in Physics from CWRU.  I worked in the lab of [Prof. Rolfe G. Petschek](https://physics.case.edu/emeriti/rolfe-g-petschek/), where I worked on the spontaneous alignment of farroelectric liquid crystals under boundary conditions.
           
 
   - title: Experience # Title for the section
@@ -109,7 +109,11 @@ content:
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            I built models to calculate kpis and predict failure in mining machinery.   
+            - Developed ML-based anomaly-detection models to predict failures in underground and surface mining machinery, enabling proactive maintenance and reducing unplanned downtime.
+            - Designed and built a custom no-code application enabling non-technical subject matter experts to develop, deploy, and monitor predictive models for underground mining equipment — directly democratizing data science capabilities.
+            - Designed scalable data pipelines, KPI dashboards, and reports to support real-time decision-making on complex machinery status and utilization.
+            - Developed an odometry-based system to track shuttle car activity in an underground coal mine near Johannesburg; delivered automated management reports and real-time anomaly alerts.
+            - Designed onboarding and training curriculum for rapidly integrating new Data Scientists and Analysts.
             
       - layout: left
         title: Research Statistician
@@ -120,7 +124,9 @@ content:
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            I fulfilled a variety of tasks in support of marketing and business development for webs.com, a small, build-your-own website startup.  Webs was eventually acquired and absored by VistaPrint. 
+            - Designed, developed & delivered models used to predict the effects of marketing campaigns and business development decisions.
+            - Performed Market Segmentation to identify core segments of our customer base.
+            - Analyzed results & measured effectiveness of A/B tests.
             
       - layout: left
         title: Statistician
@@ -131,7 +137,10 @@ content:
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            I built models of consumer purchasing behavior by demographic group.
+            - Designed, developed & delivered models used to predict consumer purchasing behavior.  
+            - Evaluated the effectiveness of current modeling processes and designed new processes to improve performance.
+            - Developed new quality control processes to ensure the integrity of company data.
+
 
 
   - title: Projects # Title for the section
