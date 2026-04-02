@@ -73,9 +73,11 @@ content:
           X
         description: | # this will include new lines to allow paragraphs
           X      
-     - layout: top-middle
-        title: Other Project
-        link: 
+          
+          
+      - layout: top-middle
+        title: Data Analysis of the Indus Script
+        link: https://github.com/toddcolsen/indus_script
         # link_text: Project Website
         additional_links:
           - title:  
