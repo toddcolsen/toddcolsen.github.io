@@ -87,12 +87,11 @@ content:
         title: Professional Data Engineer
         link: 
         # link_text: boringcompany.com
-        sub_title: [Volvo Group](volvogroup.com)
+        sub_title: Volvo Group
         caption: Hagerstown MD
         quote: > 
-            
-        description: | # this will include new lines to allow paragraphs
             ![Volvo](https://www.volvotrucks.us/news-and-stories/press-releases/2016/march/volvo-trucks-unveils-new-logo/media_10d03fe166503dc1386a76e002ab651e5ef6553fc.jpg)
+        description: | # this will include new lines to allow paragraphs
             I performed both data science and data engineering roles in support of engine testing.  
             
       - layout: left
