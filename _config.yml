@@ -87,7 +87,8 @@ content:
         title: Professional Data Engineer
         link: 
         # link_text: boringcompany.com
-        sub_title: Volvo Group
+        sub_title: | #
+            Volvo Group
         caption: Hagerstown MD
         quote: > 
             ![Volvo](https://www.volvotrucks.us/news-and-stories/press-releases/2016/march/volvo-trucks-unveils-new-logo/media_10d03fe166503dc1386a76e002ab651e5ef6553fc.jpg)
