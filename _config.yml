@@ -93,17 +93,6 @@ content:
             
         description: | # this will include new lines to allow paragraphs
             I performed both data science and data engineering roles in support of engine testing.  
-
-      - layout: left
-        title: Professional Data Engineer
-        link: 
-        # link_text: volvogroup.com
-        sub_title: [Volvo Group](volvogroup.com)
-        caption: Hagerstown, MD
-        quote: > 
-            
-        description: | # this will include new lines to allow paragraphs
-            I performed both data science and data engineering roles in support of engine testing.  
                         
 
             
