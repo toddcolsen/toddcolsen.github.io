@@ -85,13 +85,7 @@ content:
         quote: > 
           
         description: | # this will include new lines to allow paragraphs
-* Designed and deployed anomaly-detection ML models to monitor diesel truck engine test cells — systems averted 2 critical failures and saved multiple weeks of test cell run time per incident.
-* Designed, developed, and maintained scalable ETL pipelines processing ~6 GB/day of engine telemetry data from test cells and field trucks into reliable, production-ready datasets.
-* Led initiative to replace static reporting with interactive online dashboards, saving an estimated 200 engineer hours per year; built and maintained Grafana and Streamlit dashboards for both technical and non-technical users.
-* Leveraged LLMs (transformer-based models) to extract and structure information from unstructured technical documentation in support of GDPR compliance — an example of applying NLP to solve real-world business problems.
-* Developed two internal Python libraries to standardize and democratize data source access across the team; built and maintained REST API interfaces for programmatic data access.
-* Mentored junior data scientists on best practices in data analysis, modeling, visualization, and code quality; maintained our team's Git repository and supported CI/CD workflows.
-Used Power BI for data visualization, business reporting, and executive-level insight delivery.
+            I supported engine testing.
 
   
 
