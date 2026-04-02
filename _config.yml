@@ -48,7 +48,11 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Todd Olsen and I'm a Data Scientist.  
+  Hi, my name's Todd Olsen and I'm a Data Scientist / Data Engineer.  
+  
+  # Build settings
+
+remote_theme: mmistakes/minimal-mistakes@4.28.0
 
 content:
   - title: Projects # Title for the section
@@ -62,9 +66,6 @@ content:
           - title:  
             icon: 
             url: 
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           X
         description: | # this will include new lines to allow paragraphs
@@ -109,6 +110,3 @@ plugins:
  - jekyll-seo-tag
  - jekyll-include-cache
 
-# Build settings
-#remote_theme: sproogen/resume-theme
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
