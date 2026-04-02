@@ -90,9 +90,10 @@ content:
         sub_title: 
         caption: Hagerstown MD
         quote: > 
-            ![Volvo](https://www.volvotrucks.us/news-and-stories/press-releases/2016/march/volvo-trucks-unveils-new-logo/media_10d03fe166503dc1386a76e002ab651e5ef6553fc.jpg)
+            
         description: | # this will include new lines to allow paragraphs
-            I performed both data science and data engineering roles in support of engine testing.  
+                - Designed and deployed anomaly-detection ML models to monitor diesel truck engine test cells
+                - Designed, developed, and maintained scalable ETL pipelines processing engine telemetry data from test cells and field trucks into reliable, production-ready datasets.
             
       - layout: left
         title: Data Scientist
