@@ -96,16 +96,36 @@ content:
             
       - layout: left
         title: Data Scientist
-        link: 
-        # link_text: boringcompany.com
-        sub_title: Komatsu Mining
+        link: https://www.komatsu.com/en-za/industries/underground-soft-rock-mining
+        link_text: Komatsu Mining
+        sub_title: 
         caption: Warrendale PA
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            Data Scientist in support of predictive analytics.  
+            I built models to calculate kpis and predict failure in mining machinery.   
             
-  
+      - layout: left
+        title: Research Statistician
+        link: vistaprint.com
+        link_text: VistaPrint
+        sub_title: 
+        caption: Silver Spring, MD
+        quote: > 
+            
+        description: | # this will include new lines to allow paragraphs
+            I fulfilled a variety of tasks in support of marketing and business development for webs.com, a small, build-your-own website startup.  Webs was eventually acquired and absored by VistaPrint. 
+            
+      - layout: left
+        title: Statistician
+        link: claritas.com
+        # link_text: boringcompany.com
+        sub_title: Claritas
+        caption: Arlington, VA
+        quote: > 
+            
+        description: | # this will include new lines to allow paragraphs
+            I built models of consumer purchasing behavior by demographic group.
 
 
   - title: Projects # Title for the section
