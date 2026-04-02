@@ -93,17 +93,19 @@ content:
             
         description: | # this will include new lines to allow paragraphs
             I performed both data science and data engineering roles in support of engine testing.  
-                        
+
       - layout: left
-        title: Data Scientist
+        title: Professional Data Engineer
         link: 
-        # link_text: boringcompany.com
-        sub_title: [Komatsu Mining](www.komatsu.com/en-za/industries/underground-soft-rock-mining)
-        caption: Warrendale, PA
+        # link_text: volvogroup.com
+        sub_title: [Volvo Group](volvogroup.com)
+        caption: Hagerstown, MD
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-            Data Scientist in support of predictive analytics for mining machinery.  
+            I performed both data science and data engineering roles in support of engine testing.  
+                        
+
             
 
   - title: Projects # Title for the section
