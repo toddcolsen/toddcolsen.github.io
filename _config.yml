@@ -64,7 +64,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:         
-      - layout:
+      - layout: top-middle
         titlXXe: Data Analysis of the Indus Script
         link: https://github.com/toddcolsen/indus_script
         link_text: GitHub Project
