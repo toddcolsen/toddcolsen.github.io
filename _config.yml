@@ -51,10 +51,12 @@ linkedin_username: todd-olsen-91515312
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Todd Olsen and I'm a Data Scientist / Data Engineer.  I most recently worked for the Volvo Group at their plant in Hagerstown, 
-  MD, where I processed and analyzed data from diesel engines.
-
-    
+  I'm a data scientist / engineer who can oversee the entire data lifecycle.  I can move it, transform it, store it, analyze it, and then communicate what it means.  
+  
+  For the last 13 years I have been in the heavy equipment space.  I most recently worked for the Volvo Group at their plant in Hagerstown, MD, where I processed and analyzed data from diesel engines.  Before that I was outside Pittsburgh, PA, building predictive models on data from mining machinry for Komatsu Mining.
+  
+  In my private life I am a big history nerd, especially ancient history.  I am working on a project to use data analysis to help understand the ancient Indus Script (see below).  Other than that I also like to shoot pool and am on a few local APA teams.  
+  
   
   
 
@@ -92,8 +94,11 @@ content:
         quote: > 
             
         description: | # this will include new lines to allow paragraphs
-                - Designed and deployed anomaly-detection ML models to monitor diesel truck engine test cells
                 - Designed, developed, and maintained scalable ETL pipelines processing engine telemetry data from test cells and field trucks into reliable, production-ready datasets.
+                - Designed and deployed anomaly-detection ML models to monitor diesel truck engine test cells
+                - Designed and developed visualizations to communicate information to stakeholders; Managed and maintained Grafana server;   Developed dashboards in PowerBI, Streamlit, & Grafana.
+                - Developed two internal Python libraries to standardize and democratize data source access across the team; built and maintained REST API interfaces for programmatic data access
+                - Mentored junior data scientists on best practices in data analysis, modeling, visualization, and code quality; maintained our team's Git repository and supported CI/CD workflows.
             
       - layout: left
         title: Data Scientist
