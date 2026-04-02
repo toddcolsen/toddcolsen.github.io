@@ -70,7 +70,7 @@ content:
         caption: University of Maryland Baltimore County (UMBC)
         sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
+           I got my Masters degree in Computer Science from UMBC.  My focus was on `Machine Learning` and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  My thesis was titled "Distributed Decision Tree Learning From Multiple Heterogeneous Data Sources".
            
       - layout: left
         title: BS Physics
@@ -93,6 +93,17 @@ content:
             
         description: | # this will include new lines to allow paragraphs
             I performed both data science and data engineering roles in support of engine testing.  
+                        
+      - layout: left
+        title: Data Scientist
+        link: 
+        # link_text: boringcompany.com
+        sub_title: [Komatsu Mining](www.komatsu.com/en-za/industries/underground-soft-rock-mining)
+        caption: Warrendale, PA
+        quote: > 
+            
+        description: | # this will include new lines to allow paragraphs
+            Data Scientist in support of predictive analytics for mining machinery.  
             
 
   - title: Projects # Title for the section
