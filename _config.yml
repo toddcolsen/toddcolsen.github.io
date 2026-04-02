@@ -22,7 +22,7 @@ website: https://toddcolsen.github.io
 # github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: todd.c.olsen
 # flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: todd-olsen-91515312
@@ -153,10 +153,10 @@ content:
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          This is a blast from the past.  I recently rediscovered something I made 20+ years ago and thought was lost.  It's is a Java program that was designed to be run while you were playing Party Poker (This is 20 years old and won't work today).
+          This is a blast from the past!  I recently rediscovered something I made 20+ years ago and thought was lost. This was my first extra-curricular project in data analysis and visualization.  It's is a Java program that was designed to be run while you were playing Party Poker (This is 20 years old and won't work today).
           
           It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
-          realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  I was able to run it, as-is.
+          realistically consult while playing.  Click on the little java icon to the left to see a page on the project and a link to an executable demo.
           
           
       - layout: left
@@ -170,7 +170,7 @@ content:
         quote:  >
            Data regarding the Indus Script.
         description: | # this will include new lines to allow paragraphs           
-            This contains a dataset derived from *"The Induis Script.  Text, Concordance, and Tables"* by Iravatham Mahadevan.  It also contains a small, self-contained, javascript GUI I wrote to assist with data entry.  
+            This contains a dataset derived from *"The Induis Script.  Text, Concordance, and Tables"* by Iravatham Mahadevan.  It also contains a small, self-contained, javascript-based GUI I wrote to assist with data entry (circa 2011).  
            
       
   - title: Publications # Title for the section
