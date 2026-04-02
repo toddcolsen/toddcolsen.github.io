@@ -22,7 +22,7 @@ website: https://toddcolsen.github.io
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: todd-olsen-91515312
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,9 +48,12 @@ website: https://toddcolsen.github.io
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Todd Olsen and I'm a Data Scientist / Data Engineer.  
+  My name is Todd Olsen and I'm a Data Scientist / Data Engineer.  I most recently worked for the Volvo Group at their plant in Hagerstown, 
+  MD, where I processed and analyzed data from diesel engines.
+
+    
   
-  # Build settings
+  
 
 
 
@@ -59,7 +62,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 
+        title: Data Analysis of the Indus Script
+        link: https://github.com/toddcolsen/indus_script
+        # link_text: Project Website
+        additional_links:
+          - title:  
+            icon: 
+            url: 
+        quote: >
+          X
+        description: | # this will include new lines to allow paragraphs
+          X      
+     - layout: top-middle
+        title: Other Project
         link: 
         # link_text: Project Website
         additional_links:
@@ -70,6 +85,7 @@ content:
           X
         description: | # this will include new lines to allow paragraphs
           X
+      
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
