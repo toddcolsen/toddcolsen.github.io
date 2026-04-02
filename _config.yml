@@ -1,3 +1,8 @@
+
+remote_theme: mmistakes/minimal-mistakes@4.28.0
+
+minimal_mistakes_skin    :  "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site
 repository: toddcolsen/toddcolsen.github.io
 favicon: images/favicon.ico
@@ -6,13 +11,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Todd Olsen
 title: Data Scientist & Engineer
+description              : &description "My Personal Page on GitHub"
+name : &name "Todd Olsen"
 email: olsentoddc@gmail.com
-website: toddcolsen.github.io
+url: https://toddcolsen.github.io
 
-# Dark Mode (true/false/never)
-darkmode: false
+
 
 # Social links
 # twitter_username: facespics
@@ -52,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   # Build settings
 
-remote_theme: mmistakes/minimal-mistakes@4.28.0
+
 
 content:
   - title: Projects # Title for the section
