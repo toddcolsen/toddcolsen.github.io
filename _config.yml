@@ -169,11 +169,10 @@ content:
             url: https://github.com/toddcolsen/indus_script
         quote:  >
            Data regarding the Indus Script.
-        description: | # this will include new lines to allow paragraphs
-           I recently rediscovered something I made 20+ years ago and thought was lost.  It's a Java Swing app designed to function as a "mnemonic assistant" to someone playing on the old PartyPoker application (This is 20 years old and won't work today).  Back then, PartyPoker wrote it's logs in plain text that was easy to read and parse.  The application is a GUI that effectively allows you to efficiently query those logs while you are  
-          
-          It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
-          realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  I was able to run it, as-is.   
+        description: | # this will include new lines to allow paragraphs           
+        I recently rediscovered something I made 20+ years ago and thought was lost.  It's a Java Swing app designed to function as a "mnemonic assistant" to someone playing on the old PartyPoker application (This is 20 years old and won't work today).  Back then, PartyPoker wrote it's logs in plain text that was easy to read and parse.  The application is a GUI that effectively allows you to efficiently query those logs while you are  
+
+        It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could     realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  I was able to run it, as-is.  
            
       
   - title: Publications # Title for the section
