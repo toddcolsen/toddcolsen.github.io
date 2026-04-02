@@ -66,11 +66,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Maryland Baltimore County
-        caption: 2002 - 2006
-        sub_title: MSc Computer Science
+        title: MS Computer Science
+        caption: University of Maryland Baltimore County (UMBC)
+        sub_title: #MSc Computer Science
         description: | # this will include new lines to allow paragraphs
-          MS Computer Science with a focus on machine learning.
+           I got my Masters degree in Computer Science from UMBC.  My focus was on Data Mining and Machine Learning and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.  I co-authored [this paper](https://www.computer.org/csdl/proceedings-article/icdm/2004/21420067/12OmNwIHopZ)
+           
+      - layout: left
+        title: BS Physics
+        caption: Case Western Reserve University (CWRU)
+        sub_title: #BS Physics
+        description: | # this will include new lines to allow paragraphs
+           Masters Degree in Computer Science from UMBC.  My focus was on Data Mining and Machine Learning and I was part of the DIADIC (DIstributed Adaptive Discovery and Computation) group headed by Dr. Hillol Kargupta.
           
 
   - title: Experience # Title for the section
