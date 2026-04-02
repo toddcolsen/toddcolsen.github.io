@@ -85,9 +85,9 @@ content:
     content:
       - layout: left
         title: Professional Data Engineer
-        link: volvogroup.com
+        link: 
         # link_text: volvogroup.com
-        sub_title: Volvo Group
+        sub_title: [Volvo Group](volvogroup.com)
         caption: Hagerstown, MD
         quote: > 
             
