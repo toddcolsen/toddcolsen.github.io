@@ -2,8 +2,13 @@
 repository: toddcolsen/toddcolsen.github.io
 favicon: images/favicon.ico
 
+
 # Content configuration version
 version: 2
+
+
+# Dark Mode (true/false/never)
+darkmode: true
 
 # Personal info
 title: Data Scientist & Engineer
@@ -11,8 +16,6 @@ description: My Personal Page on GitHub
 name : Todd Olsen
 email: olsentoddc@gmail.com
 website: https://toddcolsen.github.io
-
-
 
 # Social links
 # twitter_username: facespics
@@ -61,18 +64,19 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: Data Analysis of the Indus Script
         link: https://github.com/toddcolsen/indus_script
-        # link_text: Project Website
+        link_text: GitHub Project
         additional_links:
           - title:  
             icon: 
             url: 
-        quote: >
-          X
-        description: | # this will include new lines to allow paragraphs
-          X      
+        img: 
+        quote: This project contains code and data for my analysis of the "Indus Script" (aka. the "Harrapan Script"). 
+        description: x | # this will include new lines to allow paragraphs
+            y
+           
           
           
       - layout: top-middle
