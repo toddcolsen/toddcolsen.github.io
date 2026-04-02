@@ -69,12 +69,12 @@ content:
         link: https://github.com/toddcolsen/indus_script
         link_text: GitHub Project
         additional_links:
-          - title:  
-            icon: 
-            url: 
-        quote: This project contains code and data for my analysis of the "Indus Script" (aka. the "Harrapan Script"). 
+          - title:  Github page
+            icon: fab fa-github
+            url: https://github.com/toddcolsen/indus_script
+        quote:  
         description: | # this will include new lines to allow paragraphs           
-           XX
+           *This project contains code and data for my analysis of the Indus Script (aka. the Harrapan Script).*
           
           
       - layout: top-middle
@@ -82,9 +82,9 @@ content:
         link: https://github.com/toddcolsen/indus_script
         # link_text: Project Website
         additional_links:
-          - title:  
-            icon: 
-            url: 
+          - title:  Github page
+            icon: fab fa-github
+            url: https://github.com/toddcolsen/indus_script
         quote: >
           X
         description: | # this will include new lines to allow paragraphs
