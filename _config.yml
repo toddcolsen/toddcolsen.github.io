@@ -60,11 +60,46 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-content:
+content:             
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Maryland Baltimore County
+        caption: 2002 - 2006
+        sub_title: MSc Computer Science
+        description: | # this will include new lines to allow paragraphs
+          MS Computer Science with a focus on machine learning.
+          
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Professional Data Engineer
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Volvo Group
+        caption: 
+        quote: > 
+          
+        description: | # this will include new lines to allow paragraphs
+* Designed and deployed anomaly-detection ML models to monitor diesel truck engine test cells — systems averted 2 critical failures and saved multiple weeks of test cell run time per incident.
+* Designed, developed, and maintained scalable ETL pipelines processing ~6 GB/day of engine telemetry data from test cells and field trucks into reliable, production-ready datasets.
+* Led initiative to replace static reporting with interactive online dashboards, saving an estimated 200 engineer hours per year; built and maintained Grafana and Streamlit dashboards for both technical and non-technical users.
+* Leveraged LLMs (transformer-based models) to extract and structure information from unstructured technical documentation in support of GDPR compliance — an example of applying NLP to solve real-world business problems.
+* Developed two internal Python libraries to standardize and democratize data source access across the team; built and maintained REST API interfaces for programmatic data access.
+* Mentored junior data scientists on best practices in data analysis, modeling, visualization, and code quality; maintained our team's Git repository and supported CI/CD workflows.
+Used Power BI for data visualization, business reporting, and executive-level insight delivery.
+
+  
+
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:         
-      - layout: left
+      - layout: top-middle
         title: Data Analysis of the Indus Script
         link: https://github.com/toddcolsen/indus_script
         link_text: GitHub Project
@@ -78,43 +113,21 @@ content:
           
           
       - layout: top-middle
-        title: Data Analysis of the Indus Script
-        link: https://github.com/toddcolsen/indus_script
+        title: PokerBuddy
+        link: 
         # link_text: Project Website
         additional_links:
           - title:  Github page
             icon: fab fa-github
-            url: https://github.com/toddcolsen/indus_script
+            url: 
         quote: >
           X
         description: | # this will include new lines to allow paragraphs
           X
       
-
-  - title: Experience # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 
-        link: 
-        # link_text: boringcompany.com
-        sub_title: 
-        caption: 
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-             
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of Maryland Baltimore County
-        caption: 2002 - 2006
-        sub_title: MSc Computer Science
-        description: | # this will include new lines to allow paragraphs
-          Focus on Data Mining and Machine Learning.
-  
+    content:   
 
 # Footer
 footer_show_references: true
