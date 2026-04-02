@@ -55,12 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   For the last 13 years I have been in the heavy equipment space.  I most recently worked for the Volvo Group at their plant in Hagerstown, MD, where I processed and analyzed data from diesel engines.  Before that I was outside Pittsburgh, PA, building predictive models on data from mining machinry for Komatsu Mining.
   
-  In my private life I am a big history nerd, especially ancient history.  I am working on a project to use data analysis to help understand the ancient Indus Script (see below).  Other than that I also like to shoot pool and am on a few local APA teams.  
-  
-  
-  
-
-
+   
+  In my private life I am a husband and father.  I like to hike and shoot pool and I am on a few local APA teams with my wife Sara.  I'm also  big history nerd, especially ancient history.  I recently restarted a long-dormant project to use data analysis to help understand the ancient Indus Script (see below).  I put it aside when I had kids, but recently picked it up again.
 
 content:             
 
@@ -155,12 +151,12 @@ content:
             icon: fab fa-java
             url: https://userpages.cs.umbc.edu/tolsen1/pokerbuddy.html
         quote: >
-          X
+           A blast from the past!
         description: | # this will include new lines to allow paragraphs
-          This is a blast from the past.  I recently rediscovered something I made 20+ years ago and thought was lost.  It's is a Java program that was designed to be run while you were playing Party Poker (This is 20 years old and won't work today).
+           I recently rediscovered something I made 20+ years ago and thought was lost.  It's a [Java Swing app](https://userpages.cs.umbc.edu/tolsen1/pokerbuddy.html) designed to function as a "mnemonic assistant" to someone playing on the old PartyPoker application (This is 20 years old and won't work today).  Back then, PartyPoker wrote it's logs in plain text that was easy to read and parse.  The application is a GUI that effectively allows you to efficiently query those logs while you are  
           
           It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
-          realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  It can be run as-is.
+          realistically consult while playing.  The linked site has a zip file.  Inside is a folder containing a executable jar file and two sample log files.  I was able to run it, as-is.  
           
           
       - layout: left
@@ -172,9 +168,10 @@ content:
             icon: fab fa-github
             url: https://github.com/toddcolsen/indus_script
         quote:  >
-        
+           Data regarding the Indus Script.
         description: | # this will include new lines to allow paragraphs           
-           *This project contains code and data for my analysis of the Indus Script (aka. the Harrapan Script).*
+            This contains a dataset derived from *"The Induis Script.  Text, Concordance, and Tables"* by Iravatham Mahadevan.  It also contains a small, self-contained, javascript GUI I wrote to assist with data entry.  
+           
       
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
