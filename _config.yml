@@ -55,11 +55,16 @@ about_content: | # this will include new lines to allow paragraphs
   MD, where I processed and analyzed data from diesel engines.
 
     
+  
+  
+
+
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
-    content:      - layout
+    content:         
+      - layout:
         titlXXe: Data Analysis of the Indus Script
         link: https://github.com/toddcolsen/indus_script
         link_text: GitHub Project
@@ -69,7 +74,7 @@ content:
             url: 
         img: 
         quote: This project contains code and data for my analysis of the "Indus Script" (aka. the "Harrapan Script"). 
-        description: | # this will include new lines to allow paragraphs           
+        description: x | # this will include new lines to allow paragraphs           
            XX
           
           
