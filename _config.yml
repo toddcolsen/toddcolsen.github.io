@@ -144,19 +144,19 @@ content:
     content:         
       - layout: left
         title: PokerBuddy
-        link: https://userpages.cs.umbc.edu/tolsen1/pokerbuddy.html
-        link_text: About Page
+        link: 
+        link_text: 
         additional_links:
-          - title:  About Page
-            icon: fab fa-java
-            url: https://userpages.cs.umbc.edu/tolsen1/pokerbuddy.html
+          - title:  Github page
+            icon: fab fa-github
+            url: https://github.com/toddcolsen/pokerbuddy_2005
         quote: >
            
         description: | # this will include new lines to allow paragraphs
-          This is a blast from the past!  I recently rediscovered something I made 20+ years ago and thought was lost. This was my first extra-curricular project in data analysis and visualization.  It's is a Java program that was designed to be run while you were playing Party Poker (This is 20 years old and won't work today).
+          This is a blast from the past!  I recently rediscovered something I made 20+ years ago and thought was lost. This was my first extra-curricular project in data analysis and visualization.  It's is a Java-based online poker assistant that was designed to 
+          help while you were playing Party Poker (This is over 20 years old and won't work today).  It would constantly scan the log files from your games and form a table history of everything you "saw" since sitting at the table into a simple, easy-to-use interface that could give you meaningful information without causing excessive delays while playing.  
           
-          It would read the log files from your games and compile all the information into a simple, easy-to-use interface that you could
-          realistically consult while playing.  Click on the little java icon to the left to see a page on the project and a link to an executable demo.
+          The GitHub contains a playable demo.
           
           
       - layout: left
