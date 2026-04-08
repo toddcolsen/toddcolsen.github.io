@@ -176,7 +176,7 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content:    | #
-        *Communication Efficient Construction of Decision Trees Over Heterogeneously Distributed Data.* Kun Liu, Chris Giannella, Todd Olsen. **ICDM 2004: 67-74**
+        [Communication Efficient Construction of Decision Trees Over Heterogeneously Distributed Data.](https://www.computer.org/csdl/proceedings-article/icdm/2004/21420067/12OmNwIHopZ) Kun Liu, Chris Giannella, Todd Olsen. **ICDM 2004: 67-74**
 
   - title: Other # Title for the section
     layout: text # Type of content section (list/text)
