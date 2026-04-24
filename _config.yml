@@ -79,7 +79,7 @@ content:
    
    
   - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:   | # this will include new lines to allow paragraphs
             **Machine Learning & AI**
             - ML model development  & maintenance:  Anomaly detection,  time-to-failure prediction,  statistical process control.
