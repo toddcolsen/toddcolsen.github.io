@@ -80,25 +80,25 @@ content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:   | # this will include new lines to allow paragraphs
-- **Machine Learning & AI**
-	-- ML model development  & maintenance:  Anomaly detection,  time-to-failure prediction,  statistical process control.
-	-- Generative AI-assisted development (Claude Code, Claude Cowork)
-	-- Model evaluation, fairness assessment, and ML governance
-	-- Deep learning: transformer/attention model experimentation; LLM fine-tuning & prompt engineering; RAG and document intelligence pipelines
-- **Data Engineering & Pipelines**
-	-- SQL & NoSQL database design, schema development, and administration
-	-- Scalable ETL/ELT pipeline design and maintenance (Airflow, Spark, Iceberg)
-	-- Experience with Kafka & PySpark
-	-- Time series databases (OpenTSDB, Timescale, InfluxDB, IP21) & time series analysis
-- **Software Engineering & Cloud**
-	-- Python (10+ years): pandas, numpy, scikit-learn, PyTorch, PySpark, matplotlib, plotly, sqlalchemy
-	-- SQL (19+ years).  PostgreSQL, MS SQL Server, Oracle.  Relational DB creation and management
-	-- REST API development (Flask); Python library development
-	-- AWS, Azure, Google Cloud Platform; CI/CD, DevOps, MLOps
-	-- Agile development; Git repository management
-- **Visualization & Communication**
-	-- Interactive dashboard development: Grafana, Streamlit, Power BI
-	-- Communicating complex analyses to technical and non-technical audiences     
+        - **Machine Learning & AI**
+            -- ML model development  & maintenance:  Anomaly detection,  time-to-failure prediction,  statistical process control.
+            -- Generative AI-assisted development (Claude Code, Claude Cowork)
+            -- Model evaluation, fairness assessment, and ML governance
+            -- Deep learning: transformer/attention model experimentation; LLM fine-tuning & prompt engineering; RAG and document intelligence pipelines
+        - **Data Engineering & Pipelines**
+            -- SQL & NoSQL database design, schema development, and administration
+            -- Scalable ETL/ELT pipeline design and maintenance (Airflow, Spark, Iceberg)
+            -- Experience with Kafka & PySpark
+            -- Time series databases (OpenTSDB, Timescale, InfluxDB, IP21) & time series analysis
+        - **Software Engineering & Cloud**
+            -- Python (10+ years): pandas, numpy, scikit-learn, PyTorch, PySpark, matplotlib, plotly, sqlalchemy
+            -- SQL (19+ years).  PostgreSQL, MS SQL Server, Oracle.  Relational DB creation and management
+            -- REST API development (Flask); Python library development
+            -- AWS, Azure, Google Cloud Platform; CI/CD, DevOps, MLOps
+            -- Agile development; Git repository management
+        - **Visualization & Communication**
+            -- Interactive dashboard development: Grafana, Streamlit, Power BI
+            -- Communicating complex analyses to technical and non-technical audiences     
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
